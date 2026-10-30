@@ -15,14 +15,11 @@ ADMM optimization
 Base layer enhancement
 Detail layer enhancement
 Final image reconstruction
-Repository Structure
 notebooks/ – Complete Jupyter Notebook implementation.
 results/visualizations/ – Experimental visualizations.
 results/comparison/ – Comparative results of the three models.
 Experimental Results
 
-Visual comparisons, decomposition outputs, convergence plots and model comparisons are available in the results directory.
+Visual comparisons and model comparisons are available in the results directory.
 
-Implementation
 
-See the notebooks/ directory for the complete implementation.
